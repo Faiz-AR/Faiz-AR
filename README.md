@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ⭐️ &nbsp; Interested in Full Stack Development.
-- 🤔 &nbsp; Learning about JavaScript.
+- 🤔 &nbsp; Learning about JavaScript. (To-do: React, Node.js)
 - 📚 &nbsp; Majoring in Computer Science.
 - ⚽️ &nbsp; Watching football in my free time.
 
