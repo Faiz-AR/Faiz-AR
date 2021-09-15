@@ -39,15 +39,3 @@
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) &nbsp;![Chip](https://img.shields.io/badge/Apple-Apple_M1-999999?style=for-the-badge&logo=apple&logoColor=white) &nbsp; ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-
-
-<br/>
-
-<a href="https://github.com/Faiz-AR" width="100%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faiz-AR&theme=buefy&show_icons=true" /> &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-AR&theme=buefy&layout=compact" />
-  
-</a>
-
-<br/>
