@@ -33,9 +33,3 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   
-- ### Workspace Specs 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &nbsp; ![AMD Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) &nbsp; ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1660S-76B900?style=for-the-badge&logo=nvidia&logoColor=white) &nbsp; ![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-  
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) &nbsp;![Chip](https://img.shields.io/badge/Apple-Apple_M1-999999?style=for-the-badge&logo=apple&logoColor=white) &nbsp; ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
