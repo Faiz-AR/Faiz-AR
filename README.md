@@ -9,7 +9,6 @@
 - ⭐️ &nbsp; Interested in Full Stack Development.
 - 🤔 &nbsp; Learning about JavaScript. (To-do: React.js, Node.js, React Native)
 - 📚 &nbsp; Majoring in Computer Science.
-- ⚽️ &nbsp; Watching football in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
