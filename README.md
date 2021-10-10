@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ⭐️ &nbsp; Interested in Full Stack Development.
-- 🤔 &nbsp; Learning about JavaScript. (To-do: React.js, Node.js, React Native)
+- 🤔 &nbsp; Learning about React.js. (To-do: Node.js, React Native)
 - 📚 &nbsp; Majoring in Computer Science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
